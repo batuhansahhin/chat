@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "571945435108",
+    "project_id": "socialunichat",
+    "storage_bucket": "socialunichat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571945435108:android:701e6ff3aac08bd99351f1",
+        "android_client_info": {
+          "package_name": "com.example.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571945435108-91ibetti44klam11ng2cjfd4557554db.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQLhNBIa65ZWkd_0rYZrNcn_943-UW7Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571945435108-91ibetti44klam11ng2cjfd4557554db.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
